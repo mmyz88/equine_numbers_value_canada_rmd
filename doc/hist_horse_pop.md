@@ -40,8 +40,6 @@ time period visualised above to further support this hypothesis.
 Next we look at the range of the number horses for each provinces at any
 time point between 1940 - 1972:
 
-    ## `summarise()` ungrouping output (override with `.groups` argument)
-
 | Province             | Maximum | Minimum |
 |:---------------------|--------:|--------:|
 | Alberta              |  806200 |   87000 |
